@@ -1,0 +1,5 @@
+numpy
+streamlit
+matplotlib
+python-sat
+numba
